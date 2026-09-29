@@ -13,7 +13,9 @@
 <br/>
 
 <!-- ═════════════ 3. CODE-BLOCK ABOUT ME ═════════════ -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="middle">
 
 ```python
 class AshwinCV:
@@ -46,7 +48,14 @@ class AshwinCV:
         return "ashwin2004cv@gmail.com"
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" align="center">
+
+<img width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+</td>
+</tr>
+</table>
 
 <!-- ═════════════ 4. TECH BADGES ═════════════ -->
 <h3 align="center">🛠️ Tech Stack</h3>
