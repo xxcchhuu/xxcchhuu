@@ -102,10 +102,10 @@ class AshwinCV:
 <!-- ═════════════ 5 + 6. GITHUB STATS & TOP LANGUAGES ═════════════ -->
 <div align="center">
   <a href="https://github.com/xxcchhuu">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=xxcchhuu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=xxcchhuu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/xxcchhuu">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxcchhuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xxcchhuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -115,14 +115,18 @@ class AshwinCV:
 </div>
 
 <!-- ═════════════ 8. ACTIVITY GRAPH ═════════════ -->
+<!-- PAUSED (hosted service offline) - re-enable when it is back or self-hosted:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxcchhuu&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
+-->
 
 <!-- ═════════════ 9. TROPHY WALL ═════════════ -->
+<!-- PAUSED (hosted service offline) - re-enable when it is back or self-hosted:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xxcchhuu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
+-->
 
 <!-- ═════════════ 10. WORK EXPERIENCE ═════════════ -->
 ## 💼 Work Experience
